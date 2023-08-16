@@ -1,0 +1,14 @@
+#container{
+    margin-left: auto;
+    width: 200px;
+    height: 1000px;
+    float: left;
+    background-color: blueviolet;
+}
+#conteudo{
+    margin-right: auto;
+    width: 800px;
+    height: 1000px;
+    float: right;
+    background-color: black;
+}
