@@ -1,2 +1,2 @@
 # vandersonw.github.io
-Curriculo do jornada Dev
+Curriculo da jornada Dev
